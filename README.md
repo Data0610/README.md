@@ -1,3 +1,7 @@
+https://readme-md-yfog.onrender.com
+
+https://github.com/Data0610/README.md.git
+
 Análisis estadístico
 
 ● Precio medio: el precio medio de los vehículos es de aproximadamente 12 132,46 USD.
